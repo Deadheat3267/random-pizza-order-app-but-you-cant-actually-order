@@ -3,7 +3,8 @@ menu_list_array = ["Veg Margherita Pizza",
                         "Veg Supreme Pizza",
                         "Paneer Tikka Pizza",
                         "Deluxe Veggie Pizza",
-                        "Veg Extravaganza Pizza"];
+                        "Veg Extravaganza Pizza",
+		  	"Purple Tomato Mushroom Paste with fried spaghetti ham and cheese instant noodle dog treats Pizza"];
     
     function getmenu(){
         var htmldata="";
